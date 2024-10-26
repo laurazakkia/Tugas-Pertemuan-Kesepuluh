@@ -1,11 +1,41 @@
-# Konsep Pemrograman Berorientasi Objek -Report
-
+# Konsep Pemrograman Berorientasi Objek - REPORT
 ---
-## Pengertian Report 
+
+## Report 
 Report adalah dokumen atau output yang menyajikan data dan informasi dalam bentuk yang terstruktur dan mudah dipahami. Dalam konteks PBO, report biasanya dihasilkan dari objek yang berisi informasi tertentu.
+
 ## Langkah - langkah : 
 ### 1. Menginstall Plugin iReport Netbeans
+Pada menu tools pilih Plugins.
+
+![image](https://github.com/user-attachments/assets/de39ac5a-33d1-4b2b-899a-b24980d97179)
+
+Tambahkan file plugins yang sudah diunduh dan tunggu hingga proses instalasi selesai
+![image](https://github.com/user-attachments/assets/d380ea97-6108-4cbd-b3ff-0954e71055d9)
+
+![image](https://github.com/user-attachments/assets/4496d987-7f4e-4a2b-808f-e8d6b34d3168)
+
 ### 2. Menambahkan Library JasperReport pada Netbeans
+Pada menu tools pilih libraries
+
+![image](https://github.com/user-attachments/assets/45a78a7b-68b1-4a00-97d4-d599e9e6d671)
+
+Hapus library JasperReport yang sudah ada.
+Membuat library baru
+
+![image](https://github.com/user-attachments/assets/4f3e9250-df93-4480-9d38-de0f0c8f1a96)
+
+Tambahkan jar yang sudah diunduh dan pilih OK
+
+![image](https://github.com/user-attachments/assets/48ad6981-3a5e-4ed7-ae3a-5e5c51a5abe1)
+
+Tambahkan Library JasperReport pada package yang akan digunakan
+
+![image](https://github.com/user-attachments/assets/90d64f28-ee89-425b-86da-b7fb46255303)
+
+![image](https://github.com/user-attachments/assets/0df66a49-b3c8-4b22-a764-df58cd212b54)
+
+
 ### 3. Membuat iReport Pada Program
 Membuat folder baru pada src
 
